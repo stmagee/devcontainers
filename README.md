@@ -1,2 +1,2 @@
 # devcontainers
-example devcopntainers
+example devcontainers
